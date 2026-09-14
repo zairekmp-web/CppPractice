@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/asiaolieman/Documents/Developer/CppPractice/Hello",
-      "program": "/Users/asiaolieman/Documents/Developer/CppPractice/Hello/build/Debug/outDebug"
+      "cwd": "/Users/asiaolieman/Documents/Developer/CppPractice/Tests to see if this works",
+      "program": "/Users/asiaolieman/Documents/Developer/CppPractice/Tests to see if this works/build/Debug/outDebug"
     }
   ]
 }

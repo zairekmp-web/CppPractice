@@ -7,9 +7,14 @@ std::cout << "A trendy is a trendy\n";
 
 }
 
+//Random notes here: 2
+int main(){
+for(int i = 20; i < 500; i++){
 
 
+}
 
+}
 
 
 }
