@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/asiaolieman/Documents/Developer/CppPractice/Tests to see if this works",
-      "program": "/Users/asiaolieman/Documents/Developer/CppPractice/Tests to see if this works/build/Debug/outDebug"
+      "cwd": "/Users/robertolieman/Documents/Developer/Zaire/CppPractice/Vectors",
+      "program": "/Users/robertolieman/Documents/Developer/Zaire/CppPractice/Vectors/build/Debug/outDebug"
     }
   ]
 }
